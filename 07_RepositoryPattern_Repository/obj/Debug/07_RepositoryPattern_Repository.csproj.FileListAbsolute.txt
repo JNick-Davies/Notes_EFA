@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\07_RepositoryPattern_Repository\bin\Debug\07_RepositoryPattern_Repository.dll
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\07_RepositoryPattern_Repository\bin\Debug\07_RepositoryPattern_Repository.pdb
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\07_RepositoryPattern_Repository\obj\Debug\07_RepositoryPattern_Repository.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\07_RepositoryPattern_Repository\obj\Debug\07_RepositoryPattern_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\07_RepositoryPattern_Repository\obj\Debug\07_RepositoryPattern_Repository.dll
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\07_RepositoryPattern_Repository\obj\Debug\07_RepositoryPattern_Repository.pdb

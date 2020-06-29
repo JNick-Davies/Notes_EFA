@@ -1,0 +1,7 @@
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\00_VariablesAndValueTypes\bin\Debug\00_VariablesAndValueTypes.exe.config
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\00_VariablesAndValueTypes\bin\Debug\00_VariablesAndValueTypes.exe
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\00_VariablesAndValueTypes\bin\Debug\00_VariablesAndValueTypes.pdb
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\00_VariablesAndValueTypes\obj\Debug\00_VariablesAndValueTypes.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\00_VariablesAndValueTypes\obj\Debug\00_VariablesAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\00_VariablesAndValueTypes\obj\Debug\00_VariablesAndValueTypes.exe
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\00_VariablesAndValueTypes\obj\Debug\00_VariablesAndValueTypes.pdb

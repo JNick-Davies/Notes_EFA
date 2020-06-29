@@ -1,0 +1,7 @@
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\InClassWork_062420\bin\Debug\InClassWork_062420.exe.config
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\InClassWork_062420\bin\Debug\InClassWork_062420.exe
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\InClassWork_062420\bin\Debug\InClassWork_062420.pdb
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\InClassWork_062420\obj\Debug\InClassWork_062420.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\InClassWork_062420\obj\Debug\InClassWork_062420.exe
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\InClassWork_062420\obj\Debug\InClassWork_062420.pdb
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\InClassWork_062420\obj\Debug\InClassWork_062420.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\03_IfElseStatements\bin\Debug\03_IfElseStatements.exe.config
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\03_IfElseStatements\bin\Debug\03_IfElseStatements.exe
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\03_IfElseStatements\bin\Debug\03_IfElseStatements.pdb
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\03_IfElseStatements\obj\Debug\03_IfElseStatements.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\03_IfElseStatements\obj\Debug\03_IfElseStatements.exe
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\03_IfElseStatements\obj\Debug\03_IfElseStatements.pdb
