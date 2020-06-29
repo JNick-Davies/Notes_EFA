@@ -19,7 +19,7 @@ namespace _20_playground
                 usersName = Console.ReadLine();
                 Console.WriteLine("Hello, " + usersName + ", nice to meet you!");
                 double myNum = 3.09d;
-                decimal myDecimal = (decimal)myNum;*/
+                decimal myDecimal = (decimal)myNum;
                 int age = 23;
 
                 if (age <= 18)
@@ -45,7 +45,7 @@ namespace _20_playground
                     Console.WriteLine("...");
 
                 }
-
+                */
             }
 
         }
