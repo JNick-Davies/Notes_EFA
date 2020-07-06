@@ -41,6 +41,37 @@ namespace _10_StreamingContent_UIRefactorTests
             //assert
             Assert.IsTrue(console.Output.Contains(customDesc));
         }
+        [TestMethod]
+        public void RemoveFromList_ShouldSeeRemovedMessage()
+        {
+            //arragne
+            var commandList = new List<string> { "4", "2", "1", "5"}; //arranged in the order of the walk thru for the program 
+            var console = new MockConsole(commandList);
+            var ui = new ProgramUI(console); //using fake console
+
+            //act
+            ui.Run();
+            Console.WriteLine(console.Output);
+
+            //assert
+            Assert.IsFalse(console.Output.Contains("Fraiser..but from Japan")); //desc from japanses fraiser ie. #2 from line 48 when running the program 
+        }
+        [TestMethod]
+        public void GetByTitle_ShouldGetCorrectTitleTest()
+        {
+            //arragne
+            var customTitle = "Mr. Bond";
+            var commandList = new List<string> { "2", customTitle, "5" }; 
+            var console = new MockConsole(commandList);
+            var ui = new ProgramUI(console); 
+
+            //act
+            ui.Run();
+            Console.WriteLine(console.Output);
+
+            //assert
+            Assert.IsTrue(console.Output.Contains(customTitle));
+        }
     }
 }
 
