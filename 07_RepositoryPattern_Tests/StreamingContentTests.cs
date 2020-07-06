@@ -36,6 +36,7 @@ namespace _07_RepositoryPattern_Tests
         [DataRow(GenreType.Thriller)]
         [DataRow(GenreType.Romance)]
         [DataRow(GenreType.Comedy)]
+        [DataRow(GenreType.Comedy)]
 
         public void SetGenre_ShouldSetCorrectGenre(GenreType typeOfGenre)
         {

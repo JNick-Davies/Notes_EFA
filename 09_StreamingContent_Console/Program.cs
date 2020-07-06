@@ -11,7 +11,8 @@ namespace _09_StreamingContent_Console
     {
         static void Main(string[] args)
         {
-            ProgramUI ui = new ProgramUI(); //calling programui.cs and starting that 
+            IConsole console = new RealConsole();
+            ProgramUI ui = new ProgramUI(console); //calling programui.cs and starting that 
             ui.Run();
         }
     }

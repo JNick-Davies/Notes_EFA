@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\08_Inheritance_Classes\bin\Debug\08_Inheritance_Classes.dll
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\08_Inheritance_Classes\bin\Debug\08_Inheritance_Classes.pdb
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\08_Inheritance_Classes\obj\Debug\08_Inheritance_Classes.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\08_Inheritance_Classes\obj\Debug\08_Inheritance_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\08_Inheritance_Classes\obj\Debug\08_Inheritance_Classes.dll
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\08_Inheritance_Classes\obj\Debug\08_Inheritance_Classes.pdb

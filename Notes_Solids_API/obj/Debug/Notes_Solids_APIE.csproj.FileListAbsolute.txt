@@ -1,2 +1,7 @@
 C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\Notes_Solids_API\obj\Debug\Notes_Solids_APIE.csprojAssemblyReference.cache
 C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\Notes_Solids_API\obj\Debug\Notes_Solids_APIE.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\Notes_Solids_API\bin\Debug\Notes_Solids_API.exe.config
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\Notes_Solids_API\bin\Debug\Notes_Solids_API.exe
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\Notes_Solids_API\bin\Debug\Notes_Solids_API.pdb
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\Notes_Solids_API\obj\Debug\Notes_Solids_API.exe
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Gold_Badge\CSharp_Fundamentals\Notes_Solids_API\obj\Debug\Notes_Solids_API.pdb

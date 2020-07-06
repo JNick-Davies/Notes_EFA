@@ -30,12 +30,13 @@ namespace _07_RepositoryPattern_Repository
     }
     public class StreamingContent
     {
-  
+
         public string Title { get; set; } //prop then tab tab change int to string
         public string Description { get; set; } //for streaming services
-        public MaturityRating MaturityRating { get; set; }//pg 13, R, etc. first Maturityrating is now a type
+        public MaturityRating MaturityRating { get; set; }//pg 13, R, etc. first Maturityrating is now a type of enum
         public int StarRating { get; set; } //full stars no half stars here
-        public bool IsFamilyFriendly {
+        public bool IsFamilyFriendly
+        {
             get //build a switch case
             {
                 switch (MaturityRating)//preference to use switch or can even use an if statement 
@@ -59,7 +60,7 @@ namespace _07_RepositoryPattern_Repository
                 {
                     return true;
                 }
-            } 
+            }
         }//is or is not T||F
         public GenreType TypeOfGenre { get; set; } //gaining access to the enum. This is now a property of streaming content
 
